@@ -4,24 +4,34 @@ Wie lang hast du für das Lösen der Aufgaben gebraucht (in Minuten:Sekunden)?
 
 Welcher Gruppe warst du zugeteilt?
 [] mit Unterstützung von ChatGPT
-[] ohne Unterstützung von ChatGPT
+[X] ohne Unterstützung von ChatGPT
 
 Wie würdest du deine allgemeine Programmiererfahrung einschätzen?
 [] sehr gering
 [] gering
 [] mittel
-[] groß
+[X] groß
 [] sehr groß
 
 Wie würdest du deine Programmiererfahrung mit Java einschätzen?
 [] sehr gering
 [] gering
 [] mittel
-[] groß
+[X] groß
 [] sehr groß
 
 Welche IDE nutzt du?
+IntelliJ
 
 Wofür hast du ChatGPT bereits genutzt? (auch wenn du es in deinem Versuch nicht nutzen durftest)
-
+X
 Hast du Anmerkungen zum Versuch?
+
+Ich habe ein paar Verbesserungsvorschläge in die MatrixOutput klasse geschrieben für besseres Feedback wenn z.b. etwas schiefläuft und dass man eine gegenprüfung für das "isSquareMatrix" bräuchte
+
+Alle Aufgaben sind recht klassische in der Mathematik verankerte funktionen. Wohingegen ich die meiste komplexität in "normalem" Programmieren in einer fachlichen Logik sehe (und evtl. Probleme mit spezifischen Frameworks).
+Daher wäre für mich fraglich ob ein test mit dem Umgang mit Matrizen repräsentativ zur effektivität von Chat-GPT im Programmierer-Alltag ist (Ausser natürlich bei sehr mathematik-heavy programmierern die das jeden Tag haben).
+
+Hier wäre es für mich sehr interessant einen ähnlichen Test zu machen, jedoch z.b. eine komplexe fachliche Aufgabenstellung in einem Text und eine Gruppe muss mithilfe von ChatGPT ein Tool erstellen (z.b. Oberfläche mit Buttons etc.)
+und die andere gruppe ohne. Ob in diesem Moment Chat gpt es schafft die Aufgabenstellung ordentlich zu verstehen, wenn sie z.b. einfach copy and paste reingeworfen wird.
+Oder ob man hier z.b. für Chat GPT erst einmal übersetzen müsste und in einem Lingus schreiben muss, den Chat GPT ordentlich "verstehen" kann
